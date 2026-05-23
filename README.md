@@ -92,3 +92,34 @@ Movies are recommended based on:
 
 ```bash
 pip install -r requirements.txt
+
+## Step 2 — Run Streamlit App
+streamlit run app.py
+
+💻 Streamlit UI
+
+The application provides:
+Movie Selection Dropdown
+Recommendation Button
+Professional Dark UI
+Recommended Movie List
+
+📈 Future Improvements
+Movie Posters Integration
+IMDb Ratings
+Search Functionality
+User Authentication
+Personalized Recommendations
+Deployment on Render/Heroku
+
+🎯 Learning Outcomes
+Through this project, I learned:
+Machine Learning Fundamentals
+Natural Language Processing (NLP)
+Recommendation Systems
+Cosine Similarity
+Streamlit Web Development
+GitHub Project Management
+
+👩‍💻 Author
+Shwetali Vishwas Dumbare
